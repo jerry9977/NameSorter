@@ -1,0 +1,9 @@
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\bin\Release\netstandard2.0\NameSorter.deps.json
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\bin\Release\netstandard2.0\NameSorter.dll
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\bin\Release\netstandard2.0\NameSorter.pdb
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\obj\Release\netstandard2.0\NameSorter.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\obj\Release\netstandard2.0\NameSorter.AssemblyInfoInputs.cache
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\obj\Release\netstandard2.0\NameSorter.AssemblyInfo.cs
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\obj\Release\netstandard2.0\NameSorter.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\obj\Release\netstandard2.0\NameSorter.dll
+C:\Users\Jerry\Desktop\NameSorter\NameSorter\obj\Release\netstandard2.0\NameSorter.pdb
